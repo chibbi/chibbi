@@ -3,6 +3,10 @@
 <!--
 **chibbi/chibbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0000marcell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=0000marcell)](https://github.com/0000marcell/github-contribution-stats/)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
