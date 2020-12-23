@@ -19,4 +19,4 @@ Here are some ideas to get you started:
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
  I personally often even rewrite most, sometimes even all of my code.
  Currently i am working on a "simple" online Plattformer, which basically already works, but because i wanna finish it, i completly rewrote the whole clientside, and some of the serverside code.  I Should rewrite the whole serverside code, but i don't wanna, because it is absolutly not necessary. When i am mostly finished with it i will probably upload it to github.    
-![Top Langs](https://progress-bar.dev/28/?title=progress&width=250&heigth=50)
+![Top Langs](https://progress-bar.dev/28/?title=progress&width=250)
