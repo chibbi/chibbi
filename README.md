@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/87/?title=progress&width=150) |   | X |
 | Proxy |   | ![Progress](https://progress-bar.dev/48/?title=progress&width=150) |   | X |
 | Tic-Tac-To | X | ![Progress](https://progress-bar.dev/78/?title=progress&width=150) |   |   |
-| ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) | X |   |
+| ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   |
 | CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |
 | Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |
 | NOT | ON | GITHUB | --- | yet? |
