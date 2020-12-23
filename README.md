@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     
  ## Repos
 | Repo  | Maintained | Progress | Active Development | Template |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------- | --- | -------------- | --- | --- |
 | chibbi  | X  | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) | X |   |
 | FutureCloud  | X  | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   |
 | L18n  | X  | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |
