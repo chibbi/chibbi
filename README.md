@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    ![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&hide=stars&line_height=48)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+    ![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&hide=stars&line_height=48)(https://github.com/anuraghazra/github-readme-stats)
     
  ###### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
