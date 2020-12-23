@@ -12,8 +12,23 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chibbi)](https://github.com/anuraghazra/github-readme-stats)
     [![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&hide=stars&line_height=48)](https://github.com/anuraghazra/github-readme-stats)
+    
+ ## Repos
+| Repo  | Second Header |
+| ------------- | ------------- |
+| chibbi  | Content Cell  |
+| FutureCloud  | Content Cell  |
+| L18n  | Content Cell  |
+| HomePage  | Content Cell  |
+| SimpleJavaWebserver  | Content Cell  |
+| Proxy  | Content Cell  |
+| Tic-Tac-To  | Content Cell  |
+| ChatMessenger  | Content Cell  |
+| CountdownAbiturBW  | Content Cell  |
+| Youtube-Downloader  | Content Cell  |
     
  ### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
