@@ -16,20 +16,20 @@ Here are some ideas to get you started:
     [![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&hide=stars&line_height=48)](https://github.com/anuraghazra/github-readme-stats)
     
  ## Repos
-| Repo  | Maintained | Progress | Active Development | Template |
-| ------- |:---:| -------------- |:---:|:---:|
-| chibbi | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) | X |   |
-| FutureCloud | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   |
-| L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |
-| HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   |
-| SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/87/?title=progress&width=150) |   | X |
-| Proxy |   | ![Progress](https://progress-bar.dev/48/?title=progress&width=150) |   | X |
-| Tic-Tac-To | X | ![Progress](https://progress-bar.dev/78/?title=progress&width=150) |   |   |
-| ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   |
-| CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |
-| Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |
+| Repo  | Maintained | Progress | Active Development | Template | needs rework |
+| ------- |:---:| -------------- |:---:|:---:|:---:|
+| chibbi | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) | X |   | |   |
+| FutureCloud | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | | X |
+| L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X | | X |
+| HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   | | X |
+| SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/87/?title=progress&width=150) |   | X | |   |
+| Proxy |   | ![Progress](https://progress-bar.dev/48/?title=progress&width=150) |   | X | |   |
+| Tic-Tac-To | X | ![Progress](https://progress-bar.dev/78/?title=progress&width=150) |   |   | |   |
+| ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | | X |
+| CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   | |   |
+| Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   | |   |
 | NOT | ON | GITHUB | --- | yet? |
-| online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) | X |   |
+| online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) | X |   | 
     
  ### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
