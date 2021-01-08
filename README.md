@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 | ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | X |
 | CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
 | Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
-| NOT | ON | GITHUB | --- | yet? |   |
+| NOT | ON | GITHUB | --- | --- | yet? |
 | online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) | X |   |   |
     
  ### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
