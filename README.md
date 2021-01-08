@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  ## Repos
 | Repo  | Maintained | Progress | Active Development | Template | needs rework |
 | ------- |:---:| -------------- |:---:|:---:|:---:|
-| chibbi | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) | X |   |   |
-| FutureCloud | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | X |
-| L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X | X |
+| chibbi | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   |   |
+| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   | X |
+| L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   | X |
 | HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   | X |
-| SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/87/?title=progress&width=150) |   | X |   |
+| SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |   |
 | Proxy |   | ![Progress](https://progress-bar.dev/48/?title=progress&width=150) |   | X |   |
 | Tic-Tac-To | X | ![Progress](https://progress-bar.dev/78/?title=progress&width=150) |   |   |   |
 | ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | X |
