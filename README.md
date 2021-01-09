@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 | Repo  | Maintained | Progress | Active Development | Template | needs rework |
 | ------- |:---:| -------------- |:---:|:---:|:---:|
 | chibbi | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   |   |
-| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   | X |
+| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) | x |   | X |
 | L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   | X |
 | HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   | X |
 | SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |   |
@@ -35,4 +35,3 @@ Here are some ideas to get you started:
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
  I personally often even rewrite most, sometimes even all of my code.
  Currently i am working on a "simple" online Plattformer, which basically already works, but because i wanna finish it, i completly rewrote the whole clientside, and some of the serverside code.  I Should rewrite the whole serverside code, but i don't wanna, because it is absolutly not necessary. When i am mostly finished with it i will probably upload it to github.    
-![Progress](https://progress-bar.dev/28/?title=progress&width=250)
