@@ -24,7 +24,7 @@ https://github.com/jstrieb/github-stats
 | ------- |:---:| -------------- |:---:|:---:|:---:|
 | SearchTODOInDirectory | X | ![Progress](https://progress-bar.dev/99/?title=progress&width=150) |   |   | X |
 | chibbi | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   |   |
-| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) | x |   | X |
+| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   | X |
 | L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X | X |
 | HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   | X |
 | SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |   |
@@ -34,7 +34,7 @@ https://github.com/jstrieb/github-stats
 | CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
 | Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
 | NOT | ON | GITHUB | --- | --- | yet? |
-| online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) | X |   |   |
+| online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) |   |   |   |
     
  ### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
