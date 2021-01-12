@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
+<!--
+may change to:
+https://github.com/jstrieb/github-stats
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
     [![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&hide=stars&line_height=48)](https://github.com/anuraghazra/github-readme-stats)
     
