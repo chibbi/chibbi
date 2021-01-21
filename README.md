@@ -19,23 +19,6 @@ https://github.com/jstrieb/github-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
     [![Contribution stats](https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&count_private=true&hide=stars&line_height=48)](https://github.com/anuraghazra/github-readme-stats)
     
- ## Repos
-| Repo  | Maintained | Progress | Active Development | Template | needs rework |
-| ------- |:---:| -------------- |:---:|:---:|:---:|
-| SearchTODOInDirectory | X | ![Progress](https://progress-bar.dev/99/?title=progress&width=150) |   |   | X |
-| chibbi | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   |   |
-| FutureCloud | X | ![Progress](https://progress-bar.dev/80/?title=progress&width=150) |   |   | X |
-| L18n | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X | X |
-| HomePage | X | ![Progress](https://progress-bar.dev/95/?title=progress&width=150) |   |   | X |
-| SimpleJavaWebserver | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   | X |   |
-| Proxy |   | ![Progress](https://progress-bar.dev/48/?title=progress&width=150) |   | X |   |
-| Tic-Tac-To | X | ![Progress](https://progress-bar.dev/78/?title=progress&width=150) |   |   |   |
-| ChatMessenger | X | ![Progress](https://progress-bar.dev/60/?title=progress&width=150) |   |   | X |
-| CountdownAbiturBW | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
-| Youtube-Downloader | X | ![Progress](https://progress-bar.dev/100/?title=progress&width=150) |   |   |   |
-| NOT | ON | GITHUB | --- | --- | yet? |
-| online Plattformer | X | ![Progress](https://progress-bar.dev/28/?title=progress&width=150) |   |   |   |
-    
  ### You can probably see, that i mostly/only create Prototypes and nothing that is even near to being finished.  
  This can be explained, because if you start to finish something, you start to write MUCH more code, to make it more robust.
  I personally often even rewrite most, sometimes even all of my code.
