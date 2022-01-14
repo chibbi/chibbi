@@ -23,5 +23,5 @@ https://github.com/jstrieb/github-stats
 <br>
 <br>
 <p align="center">
-    <a href="chibbi.github.io"> my bad website</a>
+    <a href="https://chibbi.github.io"> my bad website</a>
 </p>
