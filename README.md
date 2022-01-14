@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+    <a href="chibbi.github.io"> my bad website</a>
+</p>
 ## Stats
 <!--
 may change to:
