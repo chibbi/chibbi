@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 may change to:
 https://github.com/jstrieb/github-stats
 -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> <b>hi</b>
 <div align="center">
     <h2>Statistics</h2>
     <br>
