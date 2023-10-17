@@ -27,5 +27,6 @@ https://github.com/jstrieb/github-stats
     <a href="https://chibbi.github.io"> my bad website</a>
     <br>
     <br>
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=chibbi.chibbi&left_color=green&right_color=red)
     <a href="http://visitor-badge.glitch.me/"><img src="https://visitor-badge.glitch.me/badge?page_id=chibbi.chibbi&left_text=Profile%20Visitors&left_color=blue&right_color=green" alt="Visitor count"></a>
 </p>
