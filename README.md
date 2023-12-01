@@ -19,7 +19,7 @@ https://github.com/jstrieb/github-stats
     <h2>Statistics</h2>
     <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibbi&theme=radical&count_private=true" alt="Top Langs"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=chibbi&show_icons=true&theme=radical&count_private=true&hide=stars&line_height=48" alt="Contribution stats"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chibbi" alt="Contribution stats"></a>
 </div>
 <br>
 <br>
