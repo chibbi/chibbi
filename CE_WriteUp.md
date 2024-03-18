@@ -15,10 +15,6 @@ Ich werde mich in diesem Intro zum Game Hacking bzw. Cheating auf Einzelspielers
 ### Arbeitsspeicher
 Jedes Programm, das auf einem Computer läuft, speichert irgendwo seine Daten. Normalerweise werden diese Daten im Arbeitsspeicher abgelegt und bei Bedarf in die CPU geladen. Der Arbeitsspeicher ist in bestimmte Bereiche aufgeteilt, so dass jedes Programm nur seine eigenen Daten sieht. Um dennoch Zugriff auf ein anderes Programm zu erhalten, können Funktionen genutzt werden, die eigentlich Debuggern vorbehalten sind.
 Im Prinzip agiert Cheat Engine also als Debugger für das Programm (oder wie es in CE heißt "Process"). So kann sie auf den Speicherbereich des Programms zugreifen und das Programm auch beenden.
-### ???
-will ich hier noch so protection technices erklären oder zu komplex dann?
-### ???
-will ich noch erklären wien debugger so mitm progrmam interagieren kann ? (aka. assembly vom programm in runtime anschauen und erklären wie man das nutzen kann?)
 
 ## Praktische Beispiele
 Um die Knöpfe von Cheat Engine kennen zu lernen, bietet Cheat Engine selbst ein Tutorial an.
