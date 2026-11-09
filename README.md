@@ -19,7 +19,6 @@ https://github.com/jstrieb/github-stats
     <h2>Statistics</h2>
     <br>
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=chibbi&theme=radical&count_private=true" alt="Top Langs"></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chibbi" alt="Contribution stats"></a>
 </div>
 <br>
 <br>
